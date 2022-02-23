@@ -9,14 +9,20 @@
     "mobile": "18350181291",
     "github": "https://github.com/chenwutong",
     "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
+    "positionTitle": "Java后端开发"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
+      "edu_time": ["2019.09.01", "2021.06.30"],
+      "school": "福州理工学院",
       "major": "网络工程",
       "academic_degree": "本科"
+    }
+     {
+      "edu_time": ["2016.09.01", "2019.06.30"],
+      "school": "武夷山职业技术学院",
+      "major": "软件工程",
+      "academic_degree": "专科"
     }
   ],
   "awardList": [
